@@ -1,4 +1,4 @@
-Browser
+Web Browser
 =======
 
 Web Browser written in Haskell
